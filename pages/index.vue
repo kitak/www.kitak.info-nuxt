@@ -6,7 +6,7 @@
         kitak-info
       </h1>
       <h2 class="subtitle">
-        my portfolio
+        <Markdown></Markdown>
       </h2>
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green">Documentation</a>
@@ -18,10 +18,12 @@
 
 <script>
 import Logo from '~/components/Logo.vue'
+import Markdown from '~/components/Markdown.vue'
 
 export default {
   components: {
-    Logo
+    Logo,
+    Markdown
   }
 }
 </script>
