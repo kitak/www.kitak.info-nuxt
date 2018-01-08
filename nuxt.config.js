@@ -10,7 +10,9 @@ module.exports = {
       { hid: 'description', name: 'description', content: 'my portfolio' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'stylesheet', type: 'text/css', href: '/crisp.css' },
+      { rel: 'stylesheet', type: 'text/css', href: 'https://netdna.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.css' },
+      { rel: 'stylesheet', type: 'text/css', href: 'https://fonts.googleapis.com/css?family=Bree+Serif|Open+Sans' }
     ]
   },
   /*
