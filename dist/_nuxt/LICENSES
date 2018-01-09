@@ -1,11 +1,11 @@
 /*!
- * Vue.js v2.5.13
+ * Vue.js v2.4.4
  * (c) 2014-2017 Evan You
  * Released under the MIT License.
  */
 
 /**
- * vuex v3.0.1
+ * vuex v2.5.0
  * (c) 2017 Evan You
  * @license MIT
  */
@@ -19,8 +19,8 @@
  */
 
 /**
- * vue-meta v1.4.2
- * (c) 2018 Declan de Wet & Atinux
+ * vue-meta v1.3.1
+ * (c) 2017 Declan de Wet & Atinux
  * @license MIT
  */
 
