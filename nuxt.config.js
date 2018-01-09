@@ -41,5 +41,8 @@ module.exports = {
         exclude: /(node_modules)/
       })
     }
+  },
+  render: {
+    resourceHints: false
   }
 }
