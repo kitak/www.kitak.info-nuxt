@@ -1,3 +1,4 @@
+<template lang="md">
 # My Resume
 
 ## Educations
@@ -39,7 +40,18 @@
           - Write JavaScript for UI (Vanilla JavaScript)
           - Optimize page speed
       * First half of 2017: Developer Award Winner (Front-End part)
+  - Sep. 2018 -
+      * Engineering Manager
+      * LINE Wallet coupon feature
+          - Write JavaScript for UI (Vue.js)
+      * LINE Wallet my cards feature
+          - Write JavaScript for UI (Vue.js)
+      * LINE 2019 New Year Campaign (https://linecorp.com/ja/pr/news/ja/2018/2561)
+          - Front-End leed engineer
+          - Write JavaScript for UI (Vue.js)
 
 ---
 
 mailto: kei.kita2501 at gmail.com
+
+</template>

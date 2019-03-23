@@ -1,3 +1,4 @@
+<template lang="md">
 # About
 
 My name is **Keisuke KITA**, Software Engineer from Shibuya, Tokyo, Japan.
@@ -65,3 +66,4 @@ Also I'm interested in middleware/backend development in Node.js and Go.
   * [https://twitter.com/kitak](https://twitter.com/kitak)
 - Facebook
   * [https://www.facebook.com/kei.kita2501](https://www.facebook.com/kei.kita2501)
+</template>
