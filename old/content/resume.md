@@ -38,6 +38,7 @@
       * LINE WEB STORE (https://store.line.me)
           - Write JavaScript for UI (Vanilla JavaScript)
           - Optimize page speed
+      * First half of 2017: Developer Award Winner (Front-End part)
 
 ---
 
